@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Palmtree",
+  "base_artist": "NGONG",
+  "createdAt": "2025-12-10T07:28:09.370274Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sitting In The Palmtree",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/01_Sitting_In_The_Palmtree_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sitting in the Palmtree",
+      "artist": "ABBA",
+      "has_synced": false,
+      "path": "select/02_Sitting_in_the_Palmtree_ABBA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Palmtree (feat. AZU & BANNY BUGS)",
+      "artist": "NGONG",
+      "has_synced": false,
+      "path": "select/pl_01_Palmtree_(feat._AZU_&_BANNY_BUGS)_NGONG.txt"
+    }
+  ]
+}
